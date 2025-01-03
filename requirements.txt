@@ -1,2 +1,3 @@
 flask
 sqlparse
+flask_cors
